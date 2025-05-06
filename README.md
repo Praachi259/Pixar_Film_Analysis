@@ -1,6 +1,6 @@
 # Pixar_Film_Analysis
 
-<img src="Dashb.png" width=1000>
+<img src="pixer_dash.png" width=1000>
 
 ## Overview
 This Power BI report provides an in-depth analysis of Pixar films, covering metrics such as box office performance, IMDb scores, film ratings, genres, awards, and production data.
